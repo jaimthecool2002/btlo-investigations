@@ -115,6 +115,5 @@ All investigations are conducted in controlled lab environments for educational 
 
 **Jai**  
 Aspiring SOC Analyst | Blue Team Enthusiast  
-```
 
 ---
